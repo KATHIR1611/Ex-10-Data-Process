@@ -84,11 +84,11 @@ plt.show()
 
 ![](vv2.png)
 
-![](vv 3.png)
+![](https://github.com/KATHIR1611/Ex-10-Data-Process/blob/main/vv%203.png)
 
-![](vv 4.png)
+![](https://github.com/KATHIR1611/Ex-10-Data-Process/blob/main/vv%204.png)
 
-![](vv 5.png)
+![](https://github.com/KATHIR1611/Ex-10-Data-Process/blob/main/vv%205.png)
 
 
 
