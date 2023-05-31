@@ -80,17 +80,16 @@ plt.show()
 ```
 # OUTPUT
 
-![]()
+![](vv1.png)
 
-![]()
+![](vv2.png)
 
-![]()
+![](vv 3.png)
 
-![]()
+![](vv 4.png)
 
-![]()
+![](vv 5.png)
 
-![]()
 
 
 # RESULT
