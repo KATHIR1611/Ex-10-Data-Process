@@ -1,5 +1,11 @@
 # Ex-10-Data-Process-
 
+Date - 
+
+Colab Link -https://colab.research.google.com/drive/1hRPTkZ2omSEKgMGQuoQYFUYsmuW2BoiU?usp=sharing
+
+Github Link -https://github.com/KATHIR1611/Ex-10-Data-Process
+
 ## AIM
 To Perform Data Process on a complex dataset and save the data to a file. 
 
